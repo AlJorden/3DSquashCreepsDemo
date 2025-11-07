@@ -7,7 +7,7 @@
 [ext_resource type="Script" uid="uid://cvs34wqxeokym" path="res://score_label.gd" id="5_7mycd"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_7dm0k"]
-size = Vector3(60, 2, 60)
+size = Vector3(60, 3, 60)
 
 [sub_resource type="BoxMesh" id="BoxMesh_ig7tw"]
 size = Vector3(60, 2, 60)
